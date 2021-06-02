@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GCO-NZ (Gavin Connell-Otten)
 - 👀 I’m interested in Engineering in general, particularly AWS and DevOps
-- 🌱 I’m currently learning how to manage hihglyu performaing engneering teaams!
-- 💞️ I’m looking to collaborate on reusable infracode and CI/CD release patterns
+- 🌱 I’m currently learning how to manage highly performaing engineering teams!
+- 💞️ I’m looking to collaborate on reusable infra-code and CI/CD release patterns
 - 📫 How to reach me  - https://www.linkedin.com/in/gavin-connell-otten-68b0a823
 
 <!---
